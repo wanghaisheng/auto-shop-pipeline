@@ -17,3 +17,10 @@ https://shimo.im/docs/8hgyPRQKrTYvXkVY/read
 2.红海产品的运营
 
 标题 主图 详情图的归档和分析 比如图片中满减之类的活动 关键词的命中和布局
+
+
+
+3. sync
+   taobao -pinduoduo
+   taobao -xiaohongshu
+   
