@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "webp",
+      "value": "true",
+      "domain": "mms.pinduoduo.com",
+      "path": "/login",
+      "expires": 1690121084,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "api_uid",
+      "value": "Ck2QzmSVpnwMLwBuEuYWAg==",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1722089084.283599,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_nano_fp",
+      "value": "XpEJnqdxlp9Jn0EolT_J~wwfE3C3zx_hBoLcUgns",
+      "domain": "mms.pinduoduo.com",
+      "path": "/",
+      "expires": 1722089084.643031,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_bee",
+      "value": "tZjAnvKwxjp7zdyg01ql2p0c9GT3PUce",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.961479,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_f77",
+      "value": "e0dab04e-29e4-4f10-b513-47cd98da3bd1",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.961564,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_a42",
+      "value": "218aa521-b920-47a8-85cf-61380d8bdfec",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.961592,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rckk",
+      "value": "tZjAnvKwxjp7zdyg01ql2p0c9GT3PUce",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.961615,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ru1k",
+      "value": "e0dab04e-29e4-4f10-b513-47cd98da3bd1",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.961669,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ru2k",
+      "value": "218aa521-b920-47a8-85cf-61380d8bdfec",
+      "domain": ".pinduoduo.com",
+      "path": "/",
+      "expires": 1719065412.96171,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mms.pinduoduo.com",
+      "localStorage": [
+        {
+          "name": "PROTOCOL_MODAL",
+          "value": "undefined"
+        },
+        {
+          "name": "226_3_36_102_105_110_103_101_114_45_117_117_105_100_49_95_48_46_49_46_53",
+          "value": "226_3_72_101_48_100_97_98_48_52_101_45_50_57_101_52_45_52_102_49_48_45_98_53_49_51_45_52_55_99_100_57_56_100_97_51_98_100_49"
+        },
+        {
+          "name": "226_3_32_102_105_110_103_101_114_45_107_101_121_95_48_46_49_46_53",
+          "value": "226_3_64_116_90_106_65_110_118_75_119_120_106_112_55_122_100_121_103_48_49_113_108_50_112_48_99_57_71_84_51_80_85_99_101"
+        },
+        {
+          "name": "new_userinfoInvalid",
+          "value": "true"
+        },
+        {
+          "name": "mms.pmm.did.2",
+          "value": "619d4833-8303-497c-9639-003d78583e84"
+        },
+        {
+          "name": "ISLOGIN",
+          "value": "1"
+        },
+        {
+          "name": "_nano_fp",
+          "value": "XpEJnqdxlp9Jn0EolT_J~wwfE3C3zx_hBoLcUgns"
+        },
+        {
+          "name": "old_username",
+          "value": "{\"username\":\"18926010461\"}"
+        },
+        {
+          "name": "226_3_36_102_105_110_103_101_114_45_117_117_105_100_50_95_48_46_49_46_53",
+          "value": "226_3_72_50_49_56_97_97_53_50_49_45_98_57_50_48_45_52_55_97_56_45_56_53_99_102_45_54_49_51_56_48_100_56_98_100_102_101_99"
+        },
+        {
+          "name": "SPRING",
+          "value": "undefined"
+        },
+        {
+          "name": "226_3_34_102_105_110_103_101_114_45_70_75_71_74_95_48_46_49_46_53",
+          "value": "226_3_64_75_118_51_78_106_88_90_103_110_105_72_82_120_105_84_114_111_50_97_50_75_120_84_121_80_107_99_110_76_72_84_66"
+        }
+      ]
+    }
+  ]
+}
